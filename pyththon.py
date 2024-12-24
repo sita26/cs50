@@ -6,5 +6,4 @@ if age > 18:
 else:
     print('you are minor.')
 
-
-
+print("hi")
